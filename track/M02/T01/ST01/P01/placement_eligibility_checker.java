@@ -1,5 +1,5 @@
 
-public class Main {
+public class placement_eligibility_checker {
 
     public static void main(String[] args) {
         int marks = 72;
