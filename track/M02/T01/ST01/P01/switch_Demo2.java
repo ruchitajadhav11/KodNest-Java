@@ -1,5 +1,5 @@
 
-public class switch_demo2 {
+class switch_demo2 {
 
     public static void main(String[] args) {
 

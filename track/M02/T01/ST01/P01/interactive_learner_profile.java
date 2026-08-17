@@ -1,7 +1,7 @@
 
 import java.util.Scanner;
 
-public class Main {
+public class interactive_learner_profile {
 
     public static void main(String[] args) {
 
